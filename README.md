@@ -114,3 +114,49 @@ https://github.com/LolitaDias/SqlAlchemy-Hawaii-Climate-Analysis/blob/master/Res
 
 Precipitation Analysis
 ![prec](Images/precipitation.png)
+
+Temperature Analysis
+![tem](Images/daily-normals.png)
+
+Historical Analysis
+![hist](Images/station-histogram.png)
+
+## Observations
+#### Climate Analysis
+
+Precipitation Analysis
+
+1. For the majority of days in the most recent twelve month period, the total daily precipitation amounts in Hawaii were at or below two inches, with occasional days seeing anywhere up to nearly seven inches.
+2. In the most recent twelve month period, there were 2021 recorded precipitation amounts, with a mean of 0.177 inches, a standard deviation of 0.461 inches, and a maximum of 6.7 inches.
+
+Weather Station Analysis
+
+1. The most active weather station was Waihee (2772 observations), closely followed by Waikiki (2724 observations) and Kaneohe (2709 observations).
+2. The maximum, minimum, and average temperatures for the most active weather station (Waihee) were 85, 54, and 71.7 degrees Fahrenheit respectively.
+
+Temperature Analysis
+
+1. For the most active weather station (Waihee) in the most recent twelve month period, the majority of temperatures were between 69 and 79 degrees Fahrenheit, with occasional days seeing temperatures as high as 83 degrees Fahrenheit and as low as 59 degrees Fahrenheit.
+2. The t-test of the June and December temperature data produced a p-value of 3.902e-191. This is far below the accepted cutoff of 0.05 and indicates that the averages of the two datasets are statistically significant.
+
+Historical Analysis
+
+1. For a date range of 2017-12-18 to 2018-01-17, the average temperature for the same period one year prior was approximately 70 degrees Fahrenheit, with an error window of approximately 20 degrees Fahrenheit.
+2. For a date range of 2017-12-18 to 2018-01-17, the Manoa Lyon Arbo weather station had the highest recorded precipitation amount of 10.93 inches for the same period one year prior. All other weather stations recorded less than 3.25 inches of precipitation in that prior year period.
+3. For a date range of 2017-12-18 to 2018-01-17, the daily maximum, minimum, and average temperatures for the same days in all prior years were between 75 and 81 degrees Fahrenheit, 55 and 67 degrees Fahrenheit, and 68 and 73 degrees Fahrenheit respectively.
+
+#### Climate API
+
+Static Routes
+
+1. The URL for the precipitation information API correctly displays all of the recorded precipitation amounts for each day during the latest year on record.
+2. The URL for the weather station information API correctly displays all of weather stations that contributed daily observations to the baseline climate data.
+3. The URL for the temperature information API correctly displays all of the observed temperatures for the most active weather station during the latest year on record.
+
+Dynamic Routes
+
+1. For a given start date of 2016-01-01, the URL for the temperature information API returns the daily maximum, minimum, and average temperatures on and after that start date.
+2. For a given start and end date set of 2016-01-01 and 2016-12-31, the URL for the temperature information API returns the daily maximum, minimum, and average temperatures for and in-between those start and end dates.
+
+## Disclaimer
+The baseline data used for this analysis was provided by a third party source and its accuracy in relation to actual Hawaii climate data is unknown.
