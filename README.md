@@ -24,7 +24,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Sort the DataFrame values by `date`.
+
 
 * Plot the results using the DataFrame `plot` method.
 
