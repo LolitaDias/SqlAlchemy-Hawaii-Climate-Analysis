@@ -6,7 +6,7 @@
 
 
 
-3. Add your Jupyter notebook and `app.py` to this folder. These will be the main scripts to run for analysis.
+
 
 4. Push the above changes to GitHub or GitLab.
 
