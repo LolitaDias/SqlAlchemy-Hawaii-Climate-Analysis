@@ -14,8 +14,7 @@ Tasks:
 4. Which station has the highest number of observations?
 5. Designed a query to retrieve the last 12 months of temperature observation data (tobs).
 6. Filter by the station with the highest number of observations.
-
-  * Plot the results as a histogram with `bins=12`.
+7. Plot the results as a histogram with `bins=12`.
 
     ![station-histogram](Images/station-histogram.png)
 
