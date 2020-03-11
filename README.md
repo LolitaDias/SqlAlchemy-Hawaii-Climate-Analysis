@@ -18,7 +18,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Design a query to retrieve the last 12 months of precipitation data.
+
 
 * Select only the `date` and `prcp` values.
 
