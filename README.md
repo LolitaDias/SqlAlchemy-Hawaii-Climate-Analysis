@@ -1,4 +1,4 @@
-# SQLAlchemy Homework - Surfs Up!
+# SQLAlchemy Homework - SqlAlchemy-Hawaii-Climate-Analysis
 
 ### Before You Begin
 
