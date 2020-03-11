@@ -12,7 +12,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Use SQLAlchemy `create_engine` to connect to your sqlite database.
+
 
 * Use SQLAlchemy `automap_base()` to reflect your tables into classes and save a reference to those classes called `Station` and `Measurement`.
 
