@@ -12,9 +12,7 @@ Tasks:
 2. Designed a query to find the most active stations.
 3. List the stations and observation counts in descending order.
 4. Which station has the highest number of observations?
-
-
-* Design a query to retrieve the last 12 months of temperature observation data (tobs).
+5. Designed a query to retrieve the last 12 months of temperature observation data (tobs).
 
   * Filter by the station with the highest number of observations.
 
