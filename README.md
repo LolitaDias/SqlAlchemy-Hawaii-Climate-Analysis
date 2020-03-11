@@ -13,7 +13,6 @@ Tasks:
 3. List the stations and observation counts in descending order.
 4. Which station has the highest number of observations?
 
-  * Hint: You may need to use functions such as `func.min`, `func.max`, `func.avg`, and `func.count` in your queries.
 
 * Design a query to retrieve the last 12 months of temperature observation data (tobs).
 
