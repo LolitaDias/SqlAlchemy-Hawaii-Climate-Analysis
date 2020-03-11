@@ -8,7 +8,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Use the provided [starter notebook](climate_starter.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete your climate analysis and data exploration.
+
 
 * Choose a start date and end date for your trip. Make sure that your vacation range is approximately 3-15 days total.
 
