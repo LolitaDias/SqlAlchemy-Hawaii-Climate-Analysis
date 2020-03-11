@@ -14,7 +14,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Use SQLAlchemy `automap_base()` to reflect your tables into classes and save a reference to those classes called `Station` and `Measurement`.
+
 
 ### Precipitation Analysis
 
