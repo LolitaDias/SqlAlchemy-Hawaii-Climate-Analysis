@@ -10,7 +10,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Choose a start date and end date for your trip. Make sure that your vacation range is approximately 3-15 days total.
+
 
 * Use SQLAlchemy `create_engine` to connect to your sqlite database.
 
