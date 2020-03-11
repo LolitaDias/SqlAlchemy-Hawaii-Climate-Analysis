@@ -11,8 +11,7 @@ Tasks:
 1. Designed a query to calculate the total number of stations.
 2. Designed a query to find the most active stations.
 3. List the stations and observation counts in descending order.
-
-  * Which station has the highest number of observations?
+4. Which station has the highest number of observations?
 
   * Hint: You may need to use functions such as `func.min`, `func.max`, `func.avg`, and `func.count` in your queries.
 
