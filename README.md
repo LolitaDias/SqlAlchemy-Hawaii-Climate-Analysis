@@ -113,12 +113,15 @@ https://github.com/LolitaDias/SqlAlchemy-Hawaii-Climate-Analysis/blob/master/Res
 #### Climate Analysis
 
 Precipitation Analysis
+
 ![prec](Images/precipitation.png)
 
 Temperature Analysis
+
 ![tem](Images/daily-normals.png)
 
 Historical Analysis
+
 ![hist](Images/station-histogram.png)
 
 ## Observations
