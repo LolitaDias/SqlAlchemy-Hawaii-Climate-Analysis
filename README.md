@@ -69,43 +69,43 @@ https://github.com/LolitaDias/SqlAlchemy-Hawaii-Climate-Analysis/blob/master/Res
 
 #### Temperature Analysis
 
-Query temperature observations for the most active weather station in the aforementioned twelve month date range.
-Create twelve equally sized temperature range bins and sort the temperature observations into the appropriate bins.
-Plot a histogram of the temperature distribution for the most active weather station in that date range.
-Query all June and December temperature observations and create separate Pandas data frames for each dataset.
-Perform an independent t-test on the June and December datasets, and analyze the t-statistic and p-value.
+1. Query temperature observations for the most active weather station in the aforementioned twelve month date range.
+2. Create twelve equally sized temperature range bins and sort the temperature observations into the appropriate bins.
+3. Plot a histogram of the temperature distribution for the most active weather station in that date range.
+4. Query all June and December temperature observations and create separate Pandas data frames for each dataset.
+5. Perform an independent t-test on the June and December datasets, and analyze the t-statistic and p-value.
 
 #### Historical Analysis
 
-Determine a set of start and end dates, and calculate dates one year prior to those dates.
-Query maximum, minimum, and average observed temperature for all records on or within the year prior date range.
-Plot a bar chart of the average observed temperature with an error bar reflecting the difference in maximum and minimum observed temperatures.
-Query weather station information and the total precipitation recorded by each station for the year prior date range, and sort in descending order.
-Query daily maximum, minimum, and average observed temperature for all days from any year matching dates within the year prior date range.
-Combine records into a Pandas data frame and set date as the index.
-Plot an area chart of the maximum, minimum, and average observed temperatures.
+1. Determine a set of start and end dates, and calculate dates one year prior to those dates.
+2. Query maximum, minimum, and average observed temperature for all records on or within the year prior date range.
+3. Plot a bar chart of the average observed temperature with an error bar reflecting the difference in maximum and minimum observed temperatures.
+4. Query weather station information and the total precipitation recorded by each station for the year prior date range, and sort in descending order.
+5. Query daily maximum, minimum, and average observed temperature for all days from any year matching dates within the year prior date range.
+6. Combine records into a Pandas data frame and set date as the index.
+7. Plot an area chart of the maximum, minimum, and average observed temperatures.
 
 #### Climate API
 
-Define the Flask application environment and establish a connection to the SQLite database.
-Automap the database, reflect the tables as classes, and create a session.
-Define a path for the API home screen.
-Define a function to display API functionality on the home screen.
+1. Define the Flask application environment and establish a connection to the SQLite database.
+2. Automap the database, reflect the tables as classes, and create a session.
+3. Define a path for the API home screen.
+4. Define a function to display API functionality on the home screen.
 
 #### Static Routes
 
-Define a path for the precipitation information API.
-Define a function to query precipitation data for the last twelve months on record and display it in JSON format.
-Define a path for the weather station information API.
-Define a function to query weather station data and display it in JSON format.
-Define a path for the temperature information API.
-Define a function to query temperature data for the last twelve months on record and display it in JSON format.
+1. Define a path for the precipitation information API.
+2. Define a function to query precipitation data for the last twelve months on record and display it in JSON format.
+3. Define a path for the weather station information API.
+4. Define a function to query weather station data and display it in JSON format.
+5. Define a path for the temperature information API.
+6. Define a function to query temperature data for the last twelve months on record and display it in JSON format.
 
 #### Dynamic Routes
 
-Define a path for the temperature information API that accepts a start date.
-Define a function to import the given start date, query the temperature data on and after that date, calculate the appropriate daily summary values, and display those summary values in JSON format.
-Define a path for the temperature information API that accepts start and end dates.
-Define a function to import the given start and end dates, query the temperature data for and in-between those dates, calculate the appropriate daily summary values, and display those summary values in JSON format.
+1. Define a path for the temperature information API that accepts a start date.
+2. Define a function to import the given start date, query the temperature data on and after that date, calculate the appropriate daily summary values, and display those summary values in JSON format.
+3. Define a path for the temperature information API that accepts start and end dates.
+4. Define a function to import the given start and end dates, query the temperature data for and in-between those dates, calculate the appropriate daily summary values, and display those summary values in JSON format.
 
 ##Results
