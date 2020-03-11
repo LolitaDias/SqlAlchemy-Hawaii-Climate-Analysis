@@ -16,7 +16,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-### Precipitation Analysis
+
 
 * Design a query to retrieve the last 12 months of precipitation data.
 
