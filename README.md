@@ -8,7 +8,7 @@
 
 
 
-4. Push the above changes to GitHub or GitLab.
+
 
 ![surfs-up.png](Images/surfs-up.png)
 
