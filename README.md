@@ -109,3 +109,8 @@ https://github.com/LolitaDias/SqlAlchemy-Hawaii-Climate-Analysis/blob/master/Res
 4. Define a function to import the given start and end dates, query the temperature data for and in-between those dates, calculate the appropriate daily summary values, and display those summary values in JSON format.
 
 ## Results
+
+#### Climate Analysis
+
+Precipitation Analysis
+![prec](Images/precipitation.png)
