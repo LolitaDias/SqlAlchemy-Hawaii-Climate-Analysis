@@ -108,4 +108,4 @@ https://github.com/LolitaDias/SqlAlchemy-Hawaii-Climate-Analysis/blob/master/Res
 3. Define a path for the temperature information API that accepts start and end dates.
 4. Define a function to import the given start and end dates, query the temperature data for and in-between those dates, calculate the appropriate daily summary values, and display those summary values in JSON format.
 
-##Results
+## Results
