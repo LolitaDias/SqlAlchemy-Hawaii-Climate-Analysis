@@ -22,7 +22,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Load the query results into a Pandas DataFrame and set the index to the date column.
+
 
 * Sort the DataFrame values by `date`.
 
