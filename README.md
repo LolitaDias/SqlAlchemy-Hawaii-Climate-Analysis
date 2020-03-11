@@ -10,8 +10,7 @@ Tasks:
 
 1. Designed a query to calculate the total number of stations.
 2. Designed a query to find the most active stations.
-
-  * List the stations and observation counts in descending order.
+3. List the stations and observation counts in descending order.
 
   * Which station has the highest number of observations?
 
