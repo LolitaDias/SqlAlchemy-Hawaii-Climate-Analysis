@@ -20,7 +20,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 
-* Select only the `date` and `prcp` values.
+
 
 * Load the query results into a Pandas DataFrame and set the index to the date column.
 
